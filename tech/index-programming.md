@@ -1,9 +1,9 @@
 ## Index
 
-* [Home](index.md)
-* [Health](index-health.md)
-* [Technology](index-technology.md)
-* [Religion](index-religion.md)
+* [Home](../index.md)
+* [Health](../health/index-health.md)
+* [Technology](./index-technology.md)
+* [Religion](../religion/index-religion.md)
 
 ### Programming
 
