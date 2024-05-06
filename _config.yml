@@ -1,0 +1,11 @@
+title: clawson.github.io
+description: >- 
+  Dan Clawson Library
+domain: clawson.github.io
+url: https://clawson.github.io
+baseurl: "/library"
+github_username:  clawson
+
+theme: minima
+plugins:
+  - jekyll-feed
