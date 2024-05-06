@@ -6,7 +6,7 @@ description: >-
 # baseurl: /library
 github_username:  clawson
 
-source: ./src
+timezone: America/Denver
 
 # architect
 # midnight
